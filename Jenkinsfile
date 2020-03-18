@@ -5,7 +5,7 @@ pipeline {
 
             steps {
 
-                echo "Hey Motherfucker!"
+                echo "Hey Motherfuckers!"
             }
         }
     }
