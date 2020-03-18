@@ -4,7 +4,7 @@ pipeline {
         stage ('build') {
 
             steps {
-
+                sh 'date'
                 echo "Hey Motherfuckers!"
             }
         }
